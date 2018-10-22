@@ -1,0 +1,19 @@
+.reveal {
+    margin:auto;
+    width: 80%;
+    max-width: 960px;
+    font-size: 32px;
+}
+
+.reveal .slides {
+    margin-top: calc((100% - 700px) * 0.4);
+}
+
+.reveal p {
+    text-align: left;
+}
+
+#title-footer {
+    position: absolute;
+}
+

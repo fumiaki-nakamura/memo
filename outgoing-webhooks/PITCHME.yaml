@@ -1,0 +1,32 @@
+#Theme Setting (black, moon, night, beige, sky, white が設定可)
+#theme : white
+theme-override : common/css/PITCHME.css
+
+#Background Setting
+#background : assets/bg.png
+
+#Logo Setting
+logo : common/img/forEst.png
+logo-position : top-left
+
+#Slide Number Setting
+slide-number: true
+
+#Footnote Setting
+footnote : "© 2013 forEst Inc."
+
+#Highlight Setting (black, moon, night <-> white, sky, beige, simple)
+#highlight : white
+
+#Mouse Wheel Setting
+mousewheel : true
+
+#Transition Setting (遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
+transition : fade
+
+#Vertical Center Setting（falseで上詰め）
+vertical-center : false
+
+#Auto Slide Setting [msec]
+#autoslide : 5000
+

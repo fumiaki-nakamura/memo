@@ -1,6 +1,6 @@
 # 発信ウェブフック - Outgoing Webhooks
 
----
+---?include=common/INTRO.md
 
 ## 目次
 1. 発信ウェブフックとは
